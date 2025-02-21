@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [WaterLeap](http://waterleap.pns.academy/)
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently in my 4th year of engineering studies at Polytech Nice Sophia 
 
 - 📫 How to reach me **camille.antonios91@gmail.com**
 
