@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Camille Antonios</h1>
-<h3 align="center">A 4th Year Computer Engineering Student</h3>
+<h3 align="center">A 5th Year Computer Engineering Student, specializing in sustainable software</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilleAntonios&theme=tokyonight&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-- 🔭 I’m currently working on [WaterLeap](http://waterleap.pns.academy/)
+- 🔭 Apprentice at [Amadeus](https://amadeus.com/en)
 
-- 🌱 I’m currently in my 4th year of engineering studies at Polytech Nice Sophia 
+- 🌱 I’m currently in my 5th year of engineering studies at Polytech Nice Sophia 
 
 - 📫 How to reach me **camille.antonios91@gmail.com**
 
